@@ -6,6 +6,12 @@ An arduino-based wireless bathroom occupancy indicator.
 
 Also my first Arduino project.
 
+
 ## Receiver
 
 ![Receiver breadboard schematic](https://raw.github.com/adam-p/arduino-bathroom-indicator/master/receiver/receiver_bb.png)
+
+
+## Transmitter
+
+![Transmitter breadboard schematic](https://raw.github.com/adam-p/arduino-bathroom-indicator/master/transmitter/transmitter_bb.png)
