@@ -8,4 +8,4 @@ Also my first Arduino project.
 
 ## Receiver
 
-![Receiver breadboard schematic](https://raw.github.com/adam-p/arduino-bathroom-indicator/master/receiver/receiver_bb.svg)
+![Receiver breadboard schematic](https://raw.github.com/adam-p/arduino-bathroom-indicator/master/receiver/receiver_bb.png)
